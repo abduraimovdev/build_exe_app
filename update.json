@@ -1,6 +1,6 @@
 {
     "version":"1.0.1",
-    "url":"https://objects.githubusercontent.com/github-production-release-asset-2e65be/999534953/d5f241d1-d311-4711-b27f-fce79c588c59?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T185651Z&X-Amz-Expires=300&X-Amz-Signature=6d094bc797c0e3ac81f046f15d259f8e4f8bdd8d9dce70c08b5770db8ffb7235&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dbuild_exe_app-1.0.0%2B1-windows-setup.exe&response-content-type=application%2Foctet-stream",
+    "url":"https://github.com/abduraimovdev/build_exe_app/releases/download/version/build_exe_app-1.0.0+1-windows-setup.exe",
     "title":"Nima gap",
     "description" : "Nimadir Description",
     "app_id" : "build_exe_app"
